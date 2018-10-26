@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kelompok 42</string>
+    <string name="tittle">Silakan Login Dulu Gan</string>
+    <string name="regtittle">REGISTRASI DATA</string>
+    <string name="user">id anda</string>
+    <string name="password">sandi anda</string>
+    <string name="login">masuk</string>
+    <string name="register">registrasi</string>
+    <string name="logout">Keluar</string>
+    <string name="Header">Aplikasi Kelompok 42</string>
+    <string name="name">Wildan / Iin</string>
+    <string name="description">Selamat datang</string>
+</resources>
