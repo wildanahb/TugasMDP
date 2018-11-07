@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kelompok 42</string>
+    <string name="tittle">PRAKTIKUM MDP KEL.42</string>
+    <string name="regtittle">REGISTRASI DATA</string>
+    <string name="user">id anda</string>
+    <string name="password">sandi anda</string>
+    <string name="login">masuk</string>
+    <string name="register">registrasi</string>
+    <string name="logout">Keluar</string>
+    <string name="Header">Selamat Datang di Praktikum MDP 2018</string>
+    <string name="name">Wildan, Iin</string>
+    <string name="description">Selanjutnya akan di jelaskan di modul android berikutnya Mengenai API dan MVP</string>
+</resources>
